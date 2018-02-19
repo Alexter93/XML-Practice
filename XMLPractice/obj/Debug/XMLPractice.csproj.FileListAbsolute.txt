@@ -1,0 +1,10 @@
+C:\Users\alcar_000\AppData\Local\Temporary Projects\XMLPractice\bin\Debug\XMLPractice.exe.config
+C:\Users\alcar_000\Documents\Programming\C#\XMLPractice\XMLPractice\bin\Debug\XMLPractice.exe.config
+C:\Users\alcar_000\Documents\Programming\C#\XMLPractice\XMLPractice\bin\Debug\XMLPractice.exe
+C:\Users\alcar_000\Documents\Programming\C#\XMLPractice\XMLPractice\bin\Debug\XMLPractice.pdb
+C:\Users\alcar_000\Documents\Programming\C#\XMLPractice\XMLPractice\obj\Debug\XMLPractice.csprojResolveAssemblyReference.cache
+C:\Users\alcar_000\Documents\Programming\C#\XMLPractice\XMLPractice\obj\Debug\XMLPractice.Form1.resources
+C:\Users\alcar_000\Documents\Programming\C#\XMLPractice\XMLPractice\obj\Debug\XMLPractice.Properties.Resources.resources
+C:\Users\alcar_000\Documents\Programming\C#\XMLPractice\XMLPractice\obj\Debug\XMLPractice.csproj.GenerateResource.Cache
+C:\Users\alcar_000\Documents\Programming\C#\XMLPractice\XMLPractice\obj\Debug\XMLPractice.exe
+C:\Users\alcar_000\Documents\Programming\C#\XMLPractice\XMLPractice\obj\Debug\XMLPractice.pdb
